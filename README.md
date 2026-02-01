@@ -6,7 +6,7 @@ Play music using your keyboard or mouse directly in the browser!
 ---
 
 ## 📸 Screenshot
-(Add screenshot here later)
+![image alt](https://github.com/littlebrother04/Piano-App/blob/8d6d3dca38b23cfa0a75713efcd425443f192893/SS2.png)
 
 ---
 
